@@ -1,0 +1,47 @@
+body {
+  margin: auto;
+  padding: 20px;
+  max-width: 100vw;
+}
+header h1 {
+  font-family: Arial, sans-serif;
+  color: blue;
+}
+
+main {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+
+fieldset {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+fieldset legend {
+  font-weight: bold;
+}
+
+button {
+  border-radius: 10px;
+  padding: 5px 10px;
+}
+
+ol {
+  font-variant-numeric: diagonal-fractions;
+}
+ol li {
+  margin: 5px 0;
+}
+
+pre {
+  padding: 10px;
+  border: 1px solid #ccc;
+  overflow-x: scroll;
+  font-family: monospace;
+
+  white-space: pre;
+  background-color: #f4f4f4;
+}
