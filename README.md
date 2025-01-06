@@ -1,10 +1,10 @@
 # There are many examples out there but non with
-- tanstack Start (https://tanstack.com/start/latest)
+- Tanstack Start (https://tanstack.com/start/latest)
 - using 2 different identity providers like google and github (https://oauth.net/2/grant-types/authorization-code/)
 
 ## Content
 
-This is an example of using tanstack Service-Side funtions to implement a code flow login to oAuth providers. It is written in Typescript and demoes some handling of redirects and obtaining access-tokens without the use of some seperate express servers.
+This is an example of using Tanstack Server-Side funtions to implement a code flow login to oAuth providers. It is written in Typescript and demoes some handling of redirects and obtaining access-tokens without the use of some seperate express servers.
 
 ## Obtain client-id's and secrets
 
